@@ -13,3 +13,5 @@ Tehnologii folosite: C#
 Cum se compileaza/ruleaza: Intr-un emulator
 
 Aplicatia a fost creata in urma la mai multe tutoriale de pe youtube, nu le-am salvat link-uriele.
+
+![](poza/aplicatie.jpg)
