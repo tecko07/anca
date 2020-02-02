@@ -1,0 +1,13 @@
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\bin\Debug\netstandard2.0\aplicatie.deps.json
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\bin\Debug\netstandard2.0\aplicatie.dll
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\bin\Debug\netstandard2.0\ref\aplicatie.dll
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\bin\Debug\netstandard2.0\aplicatie.pdb
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\aplicatie.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\aplicatie.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\aplicatie.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\aplicatie.dll
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\ref\aplicatie.dll
+C:\Users\Adrian\source\repos\aplicatie\aplicatie\obj\Debug\netstandard2.0\aplicatie.pdb
